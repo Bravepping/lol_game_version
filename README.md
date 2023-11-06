@@ -1,0 +1,2 @@
+# lol_game_version
+lol_game_version 英雄联盟Game版本收录
